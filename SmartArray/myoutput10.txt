@@ -1,0 +1,162 @@
+-> Created new SmartArray of size 10.
+-> Expanded SmartArray to size 21.
+-> Expanded SmartArray to size 43.
+-> Expanded SmartArray to size 87.
+Index[0] = Shonna.
+Index[5] = Peggy.
+Index[10] = Branden.
+Index[15] = Raymond.
+Index[20] = Meryl.
+Index[25] = Dexter.
+Index[30] = Deloris.
+Index[35] = Ervin.
+Index[40] = Melodee.
+Index[45] = Colene.
+Index[50] = (null).
+Index[55] = (null).
+Index[60] = (null).
+Index[65] = (null).
+Index[70] = (null).
+Index[75] = (null).
+Index[80] = (null).
+Index[85] = (null).
+OH NOOOO! Our data has been hacked!
+Shonna
+Haxxed
+Brad
+Sunni
+Haxxed
+Peggy
+Edda
+Haxxed
+Delila
+Crista
+Haxxed
+Darrel
+Keena
+Haxxed
+Olinda
+Raymond
+Haxxed
+Liane
+Allegra
+Haxxed
+Meryl
+Rebecka
+Haxxed
+Mireya
+Temika
+Haxxed
+Martha
+Jo
+Haxxed
+Jenifer
+Deloris
+Haxxed
+Leisa
+Katherine
+Haxxed
+Ervin
+Elinor
+Haxxed
+Jaimee
+Alison
+Haxxed
+Elwanda
+Berniece
+Haxxed
+Erik
+Colene
+Haxxed
+Millie
+Tyesha
+Haxxed
+-> Trimmed SmartArray to size 50.
+Lets clear out this haxxor's strings.
+Shonna
+Brad
+Sunni
+Peggy
+Edda
+Delila
+Crista
+Darrel
+Keena
+Olinda
+Raymond
+Liane
+Allegra
+Meryl
+Rebecka
+Mireya
+Temika
+Martha
+Jo
+Jenifer
+Deloris
+Leisa
+Katherine
+Ervin
+Elinor
+Jaimee
+Alison
+Elwanda
+Berniece
+Erik
+Colene
+Millie
+Tyesha
+-> Trimmed SmartArray to size 33.
+Luckily we backed up our files.
+-> Expanded SmartArray to size 67.
+Shonna
+Lenard
+Brad
+Sunni
+Dorothy
+Peggy
+Edda
+Reinaldo
+Delila
+Crista
+Branden
+Darrel
+Keena
+Jayna
+Olinda
+Raymond
+Angela
+Liane
+Allegra
+Tamar
+Meryl
+Rebecka
+Teodora
+Mireya
+Temika
+Dexter
+Martha
+Jo
+Forrest
+Jenifer
+Deloris
+Annmarie
+Leisa
+Katherine
+Hortencia
+Ervin
+Elinor
+Dorris
+Jaimee
+Alison
+Melodee
+Elwanda
+Berniece
+Ivy
+Erik
+Colene
+Cammie
+Millie
+Tyesha
+Michal
+Congratz! This is the finish line!
